@@ -66,3 +66,6 @@
 * Creating myths around education and what it offers - when called out as a myth, no one minds... 
 * Failing to address child poverty and social mobility 
 * Education on its own cannot address structural inequalities
+
+
+Readings on some of these marketisation topics are in Dissertation / Readings / HE-WP / Routledge Handbook of Sociology of Higher Education
